@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="hp">HP</string>
+    <string name="attack">Attack</string>
+    <string name="defense">Defense</string>
+    <string name="sp_atk">Sp.Atk</string>
+    <string name="sp_def">Sp.Def</string>
+    <string name="speed">Speed</string>
+    <string name="shiny">Shiny</string>
+    <string name="normal">Normal</string>
+    <string name="play_with_pokemon">Play With Pokemon</string>
+    <string name="account">Account</string>
+    <string name="name">Jason Stanley \n Yoman</string>
+    <string name="email">jasonstanleyyoman@gmail.com</string>
+    <string name="quotes">- A Comfort Zone Is A Beautiful Place\n But Nothing Ever Grows There</string>
+</resources>
